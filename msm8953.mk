@@ -284,7 +284,7 @@ PRODUCT_PACKAGES += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power-service.xiaomi-libperfmgr \
+    android.hardware.power-service.msm8953-libperfmgr \
     android.hardware.power@1.2.vendor
 
 PRODUCT_COPY_FILES += \
